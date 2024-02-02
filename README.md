@@ -1,4 +1,4 @@
-# Data compression
+### Data compression
 
 ### Implementation and use of data compression algorithms:
     - Shannon-Fano coding
